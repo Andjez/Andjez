@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andjez
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning pygame
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning OpenAI,Langchain
 - 💞️ I’m looking to collaborate on no one since im new here
 - 📫 How to reach me jackpottervivid@gmail.com
 
