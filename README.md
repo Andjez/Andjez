@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andjez
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning OpenAI,Langchain
+- 🌱 I’m currently planning to learn NER,R-CNN
 - 💞️ I’m looking to collaborate with anyone since im new here and willing to learn from others
 - 📫 How to reach me jackpottervivid@gmail.com
 
